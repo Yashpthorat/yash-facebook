@@ -1,0 +1,65 @@
+.Faceimg{
+
+    color: white;
+}
+
+.face{
+    background-color: lightcyan;
+}
+
+.Search{
+    width: 600px;
+   align-items: center;
+}
+
+.Head{
+    
+    background-color: #4267B2;
+    display: flex;
+    align-items: center;
+    justify-content:space-between
+}
+
+.RightTop{
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: space-between;
+}
+
+
+
+button{
+   
+    font-size: large;
+    color: white;
+    background-color: #4267B2;
+}
+
+.postbutton{
+    margin-left: 7%;
+}
+
+
+.leftbar{
+    
+    
+    
+}
+.centerbar{
+    
+    margin-left: 40%;
+    transform: translate(2rem,-7rem);
+
+}
+
+
+.rightbar{
+    margin-left: 80%;
+    transform: translate(2rem,-7rem);
+}
+
+.post{
+    margin-top: -12%;
+    margin-left: 40%;
+}
